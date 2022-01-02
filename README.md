@@ -3,7 +3,7 @@
 <h1 align="center">It's not about me, it's about the data.</h1>
 
 
-- Well versed with machine learning algorithms: **Imbalanced Classification, Recommender Systems, NLP, Supervised, Unsupervised** etc.
+- Well versed with major ML algorithms: **Imbalanced Classification, Recommender Systems, NLP, Supervised, Unsupervised** etc.
 
 - My strongest suits are : Inferential Statistics, End to End Model Management, Business Accumen.
 
