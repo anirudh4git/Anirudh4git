@@ -3,11 +3,11 @@
 <h1 align="center">It's not about me, it's about the data.</h1>
 
 
-- Well versed with machine learning algorithms from all walks of the domain.
+- Well versed with machine learning algorithms from all walks of the domain : **Imbalanced Classification, Recommender Systems, NLP, Supervised, Unsupervised** etc.
 
 - My strongest suits are : Inferential Statistics, End to End Model Management, Business Accumen.
 
-- Currently, focussed on learning MLOps, Big data, AWS, Deployment etc.
+- Currently, focussed on learning **MLOps**, Big data, AWS, Deployment etc.
 
 - You can reach me out on: **anirudh31ajm@gmail.com**
 
